@@ -57,5 +57,24 @@ OR
 
 PCB TWO:
 
+1. Light intensity sensor BH1750FVI-TR (U2) - https://ali.ski/Hli3G
+
+2. a. 8002-2 white infrared Q0037 high sensitivity 23.3mm PIR Fresnel lens (U1) - https://ali.ski/1MwYyz
+
+OR
+
+2. b. 8002-2 black infrared Q0037 high sensitivity 23.3mm PIR Fresnel lens (U1) - https://ali.ski/X7r4f
+
+3. AM312 (U3) - https://ali.ski/26TWL2
+
+4. LED 0805 - https://ali.ski/JbTKs
+
+5. 0603 SMD 1/8W chip resistor 1K (R1) - https://ali.ski/8WIRx
+
+5. 0603 SMD 1/8W chip resistor 10K (R2) - https://ali.ski/8WIRx
+
+6. Capacitor 100NF 0603 (C1, C2, C3) - https://ali.ski/KMz2x
+
+
 
 
