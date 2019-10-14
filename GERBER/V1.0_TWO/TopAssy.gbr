@@ -1,10 +1,14 @@
-%TF.GenerationSoftware,Novarm,DipTrace,3.2.0.1*%
-%TF.CreationDate,2019-10-13T00:01:58+02:00*%
-%FSLAX35Y35*%
-%MOMM*%
-%TF.FileFunction,Drawing,Top*%
-%TF.Part,Single*%
+G04 DipTrace 3.2.0.1*
+G04 TopAssy.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Drawing,Top*
+G04 #@! TF.Part,Single*
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
 G75*
 G01*
+G04 TopAssy*
 %LPD*%
 M02*
