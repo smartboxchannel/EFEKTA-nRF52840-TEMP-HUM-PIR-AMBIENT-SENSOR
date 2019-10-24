@@ -87,6 +87,8 @@ OR
 
 12. 0603 SMD 1/8W chip resistor 0 (R4) - https://ali.ski/8WIRx (optional, solder if not using DC-DC)
 
+13.  Inductor VLF302510MT-4R7M (L1) - https://ali.ski/q-u7a (optional)
+
 
 
 
