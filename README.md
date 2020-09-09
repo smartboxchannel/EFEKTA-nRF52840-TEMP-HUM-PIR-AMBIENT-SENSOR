@@ -2,9 +2,9 @@
 
 Based on nRF52840 (E73-2G4M08S1C).
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
